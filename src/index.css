@@ -5,7 +5,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #5ec0f1;
   background-repeat: no-repeat;
-  background-image:url('clouds.jpg');
+  background-image:url('/src/clouds.jpg');
   background-size:100%; 
 };
 code {

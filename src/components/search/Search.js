@@ -9,7 +9,7 @@ const Search = ({ onSearchChange }) => {
 
     const loadOptions = (inputValue) => {
         return fetch(
-            `${GEO_API_URL}/cities/Q60/nearbyCities?radius=100'${inputValue}`,
+            `${GEO_API_URL}/locations/33.832213-118.387099/nearbyCities?radius=100'${inputValue}`,
       geoApiOptions
     )
             .then((response )=> response.json())
