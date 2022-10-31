@@ -3,8 +3,11 @@ Technology:
 OS: 
 
 Windows 11
+
 Browser: Chrome
+
 Language: HTML, CSS, JavaScript, REACT,
+
 Dependency Libraries: 
 
 Command: Npx create-react-app:
