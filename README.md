@@ -90,10 +90,16 @@ console.log(response.data)
 
 v.	Setup Display
 
+CHALLENGES:
+	a. Implementation of API.
+	b. Styling was also a challenge.
+	c. Deployment issues.
+
+
 FUTURE ADDITIONS:
 	a. 10-15 Day forecast.
-	b. allergy alerts and data.
-	c. weather tracker with scheduled time.
+	b. Allergy alerts and data.
+	c. Aeather tracker with scheduled time.
 
 
 ![image](https://user-images.githubusercontent.com/110206975/198930455-f1188bec-9d28-48a5-bad0-c86c4361bb6d.png)
